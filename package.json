@@ -27,6 +27,7 @@
   "dependencies": {
     "bluebird": "3.5.0",
     "feedparser-promised": "1.2.1",
+    "random-seed": "0.3.0",
     "twit": "2.2.5"
   },
   "engines": {
